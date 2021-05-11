@@ -1,3 +1,3 @@
 # hello-world
-Creating first repository
+Creating first repository \n
 This is try and error on readme-edits
